@@ -1,0 +1,7 @@
+data/
+model_ckpts/
+model_ckpts_binary
+.idea
+.ipynb_checkpoints
+**/__pycache__
+eval_tables
